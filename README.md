@@ -1,4 +1,4 @@
-# micro_handbells
+# nano_handbells
 Inspired by Simon's writeup on making microcontroller handbells for practice at home using abel simulator [1] I purchased 2 Arduino Nano 33 IOT boards. 
 These seemed ideal due to the inbuilt IMU meaning I didn't need to buy a soldering iron. 
 However, due to differences in microprocessors and IMU sensors these weren't compatible with Simon's code, so I wrote some more, albeit very similar to [1].
